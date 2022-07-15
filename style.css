@@ -168,9 +168,12 @@ nav ul li:hover a {
 }
 /*! ========================== Banner Section*/
 .banner {
-  background: url(./Images/xhero-img.png.pagespeed.ic.INRfo5JT2o.webp) no-repeat top
-    center/cover;
+  background: url(./Images/xhero-img.png.pagespeed.ic.INRfo5JT2o.webp) no-repeat
+    top center/cover;
   background-color: #f9f9ff;
   height: 750px;
   z-index: 0;
+}
+.banner h1 {
+  font-size: 25px;
 }
